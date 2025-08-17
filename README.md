@@ -2,7 +2,8 @@
 Download your youtube videos free on hd quality quick and easy steps!
 
 Steps To Download , before that u need to install some tools in your device for that u need to follow below steps :
-step 1 :
+Otherwise watch Below Video :
+steps :
 Install choco and yt-dlp , to do this follow the steps :
 1. open powershell - run as adminstrator ,
 2. type command : `` irm "https://christitus.com/win" | iex ``
