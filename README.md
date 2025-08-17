@@ -19,5 +19,3 @@ in powershell type exit and hit enter to exit
 11. after this u need to download above ``ytdownload.bat`` file .
 12. after this move the file to the location at where u want to install ur youtube video , it will make sure the downloading youtbe file will be on that location only .
 THANK YOU !!!
-anyproblem happens just msg me on the video comment section link given below . 
-``https://youtu.be/Klg10siUX_c``
