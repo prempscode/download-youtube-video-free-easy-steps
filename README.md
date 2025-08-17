@@ -18,3 +18,4 @@ in powershell type exit and hit enter to exit
 10. if the above give error type only ``choco`` , and then again try it , and make sure u click or type Yes / Y when ever it ask for .
 11. after this u need to download above ``ytdownload.bat`` file .
 12. after this move the file to the location at where u want to install ur youtube video , it will make sure the downloading youtbe file will be on that location only .
+ 
