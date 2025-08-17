@@ -5,7 +5,7 @@ Steps To Download , before that u need to install some tools in your device for 
 step 1 :
 Install choco and yt-dlp , to do this follow the steps :
 1. open powershell - run as adminstrator ,
-2. type command : irm "https://christitus.com/win" | iex
+2. type command : `` irm "https://christitus.com/win" | iex ``
 3. and then paste it in your powershell
 4. now click on chocolatey for package manager , it will automatically download chocolatey in your device after that select or search yt-dlp under install page
 5. after that click on Actions - Install/Upgrade Applications .
